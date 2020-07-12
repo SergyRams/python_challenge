@@ -1,0 +1,10 @@
+print("@"*79)
+print("Python Challenge")
+print("Budget Data Analysis")
+print("Total of Months 86")
+print("Total Amounts of Profits and Losses during the entire period $ 38382578")
+print("Average in changes Profits and Losses Amount $ 446309.047")
+print("Greatest Increase in Profits Feb-12 ($11,70593)")
+print("Greatest Decrease in Profits Sep-13 ($-11,96225)")
+print("@"*79)
+
